@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "name": "Ariunbayar",
+      "studentID": "#NEST01",
+      "city": "Ulaanbaatar",
+      "favClass": "IT",
+      "email": "ariunbayar@gmail.com",
+      "phoneNo": "+976 1122 3344",
+      "active": true,
+      "joinDate": "2022-09-01"
+    },
+    {
+      "id": 2,
+      "name": "Badraa",
+      "studentID": "#NEST02",
+      "city": "Ulaanbaatar",
+      "favClass": "Math",
+      "email": "badraa@gmail.com",
+      "phoneNo": "+976 2233 4455",
+      "active": false,
+      "joinDate": "2022-09-02"
+    },
+    {
+      "id": 3,
+      "name": "Bilguuntugs",
+      "studentID": "#NEST03",
+      "city": "Ulaanbaatar",
+      "favClass": "History",
+      "email": "bilguuntugs@gmail.com",
+      "phoneNo": "+976 3344 5566",
+      "active": true,
+      "joinDate": "2022-09-03"
+    },
+    {
+      "id": 4,
+      "name": "Munkhbayasgalan",
+      "studentID": "#NEST04",
+      "city": "Ulaanbaatar",
+      "favClass": "Science",
+      "email": "munkhbayasgalan@gmail.com",
+      "phoneNo": "+976 4455 6677",
+      "active": false,
+      "joinDate": "2022-09-04"
+    },
+    {
+      "id": 5,
+      "name": "Chinbiligt",
+      "studentID": "#NEST05",
+      "city": "Ulaanbaatar",
+      "favClass": "Art",
+      "email": "chinbiligt@gmail.com",
+      "phoneNo": "+976 5566 7788",
+      "active": true,
+      "joinDate": "2022-09-05"
+    },
+    {
+      "id": 6,
+      "name": "Delgermurun",
+      "studentID": "#NEST06",
+      "city": "Ulaanbaatar",
+      "favClass": "Music",
+      "email": "delgermurun@gmail.com",
+      "phoneNo": "+976 6677 8899",
+      "active": true,
+      "joinDate": "2022-09-06"
+    },
+    {
+      "id": 7,
+      "name": "Erdenejargal",
+      "studentID": "#NEST07",
+      "city": "Ulaanbaatar",
+      "favClass": "PE",
+      "email": "erdenejargal@gmail.com",
+      "phoneNo": "+976 7788 9900",
+      "active": false,
+      "joinDate": "2022-09-07"
+    },
+    {
+      "id": 8,
+      "name": "Gunbilig",
+      "studentID": "#NEST08",
+      "city": "Ulaanbaatar",
+      "favClass": "English",
+      "email": "gunbilig@gmail.com",
+      "phoneNo": "+976 8899 0011",
+      "active": true,
+      "joinDate": "2022-09-08"
+    },
+    {
+      "id": 9,
+      "name": "Erdenebold",
+      "studentID": "#NEST09",
+      "city": "Ulaanbaatar",
+      "favClass": "Biology",
+      "email": "erdenebold@gmail.com",
+      "phoneNo": "+976 9900 1122",
+      "active": false,
+      "joinDate": "2022-09-09"
+    },
+    {
+      "id": 10,
+      "name": "Jargal",
+      "studentID": "#NEST10",
+      "city": "Ulaanbaatar",
+      "favClass": "Physics",
+      "email": "jargal@gmail.com",
+      "phoneNo": "+976 0011 2233",
+      "active": true,
+      "joinDate": "2022-09-10"
+    },
+    {
+      "id": 11,
+      "name": "Khangarid",
+      "studentID": "#NEST11",
+      "city": "Ulaanbaatar",
+      "favClass": "Chemistry",
+      "email": "khangarid@gmail.com",
+      "phoneNo": "+976 1122 3344",
+      "active": true,
+      "joinDate": "2022-09-11"
+    },
+    {
+      "id": 12,
+      "name": "Nomindari",
+      "studentID": "#NEST12",
+      "city": "Ulaanbaatar",
+      "favClass": "Literature",
+      "email": "nomindari@gmail.com",
+      "phoneNo": "+976 2233 4455",
+      "active": false,
+      "joinDate": "2022-09-12"
+    },
+    {
+      "id": 13,
+      "name": "Siilen",
+      "studentID": "#NEST13",
+      "city": "Ulaanbaatar",
+      "favClass": "Drama",
+      "email": "siilen@gmail.com",
+      "phoneNo": "+976 3344 5566",
+      "active": true,
+      "joinDate": "2022-09-13"
+    },
+    {
+      "id": 14,
+      "name": "Munkhnaran",
+      "studentID": "#NEST14",
+      "city": "Ulaanbaatar",
+      "favClass": "Design",
+      "email": "munkhnaran@gmail.com",
+      "phoneNo": "+976 4455 6677",
+      "active": false,
+      "joinDate": "2022-09-14"
+    },
+    {
+      "id": 15,
+      "name": "Temuuge",
+      "studentID": "#NEST15",
+      "city": "Ulaanbaatar",
+      "favClass": "IT",
+      "email": "temuuge@gmail.com",
+      "phoneNo": "+976 5566 7788",
+      "active": true,
+      "joinDate": "2022-09-15"
+    },
+    {
+        "id": 16,
+        "name": "Temuulin",
+        "studentID": "#NEST16",
+        "city": "Ulaanbaatar",
+        "favClass": "M/hel",
+        "email": "temuulin@gmail.com",
+        "phoneNo": "+976 5566 7788",
+        "active": false,
+        "joinDate": "2022-09-15"
+      },
+      {
+        "id": 17,
+        "name": "Tuvshin",
+        "studentID": "#NEST17",
+        "city": "Ulaanbaatar",
+        "favClass": "PE",
+        "email": "tuvshin@gmail.com",
+        "phoneNo": "+976 5566 7788",
+        "active": true,
+        "joinDate": "2022-09-15"
+      },
+      {
+        "id": 18,
+        "name": "Undrakh",
+        "studentID": "#NEST18",
+        "city": "Ulaanbaatar",
+        "favClass": "ITPEC",
+        "email": "undrakh@gmail.com",
+        "phoneNo": "+976 5566 7788",
+        "active": false,
+        "joinDate": "2024-09-1"
+      },
+      {
+        "id": 19,
+        "name": "Gan-Erdene",
+        "studentID": "#NEST19",
+        "city": "Ulaanbaatar",
+        "favClass": "Math",
+        "email": "ganerdene@gmail.com",
+        "phoneNo": "+976 5566 7788",
+        "active": true,
+        "joinDate": "2022-09-1"
+      },
+      {
+        "id": 20,
+        "name": "MendyRubyJane",
+        "studentID": "#NEST20",
+        "city": "Germany",
+        "favClass": "Eminem",
+        "email": "mendyrubyjane@gmail.com",
+        "phoneNo": "+976 7654 3221",
+        "active": false,
+        "joinDate": "2022-09-1"
+      }
+]
